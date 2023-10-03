@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @xy-iii
+- 👋 Hi, I’m @uuxyz
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
-xy-iii/xy-iii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+uuxyz/uuxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
